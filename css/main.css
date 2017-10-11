@@ -38,7 +38,7 @@ nav .icon {
 }
 
 a {
-  text-decoration: none;  
+  text-decoration: none;
 }
 
 h1.section-title {
@@ -146,7 +146,7 @@ h1.section-title {
   text-align: center;
 }
 
-.work-info h2 { 
+.work-info h2 {
   font-size: 35px;
   font-weight: 500;
   transform: translate(0,50px);
@@ -175,7 +175,7 @@ h1.section-title {
 }
 
 #contact {
-  background: #E2E0E0;
+  background: #F5F5F5;
   text-align: center;
   padding: 50px 0;
   width: 100%;
@@ -187,68 +187,14 @@ h1.section-title {
   justify-content: center;
 }
 
-#contact-info {
-  margin: 30px;
-}
-
-#contact-info p {
-  color: #000;
-  font-weight: 300;
-}
-
-#contact-info span {
+.medialogo{
   color: #EF4646;
-  text-transform: uppercase;
-}
-
-#contact-image {
-  width: 100%;
-  max-width: 250px;
-}
-
-#social-media-logos img {
-  width: 40px;
-  margin-right: 10px;
-}
-
-#contact-form {
-  margin: 20px;
-  width: 40%;
-}
-    
-input,
-textarea {
-  border: 2px solid #EF4646;
-  background: #fff;
-  font-size: 15px;
-  padding: 15px 15px;
-  color: #000;
-  margin-top: 20px;
-}
-
-input[type="text"] {
-  margin-bottom: 10px;
-  width: 100%;
-  max-width: 400px;
+  font-size: 9em;
+  margin-bottom: 50px;
+  padding: 50px 80px;
 }
 
 
-textarea {
-  height: 100px;
-  margin-bottom: 22px;
-  width: 100%;
-  max-width: 400px;
-}
-
-input[type="submit"] {
-  background-color: #EF4646;
-  border: none;
-  color: #fff;
-  height: 45px;
-  width: 130px;
-  text-align: center;
-}
-  
 footer {
   background-color: #000;
   font-size: 10px;
@@ -260,8 +206,8 @@ footer {
 @media screen and (max-width : 1160px) {
 
   .work-image-container {
-    margin: 10px; 
-    width: 400px;  
+    margin: 10px;
+    width: 400px;
     height: auto;
   }
 
@@ -286,12 +232,12 @@ footer {
     right: 10%;
   }
 
-  #main-logo { 
-    width: 250px; 
-  } 
+  #main-logo {
+    width: 250px;
+  }
 
   .work-image-container {
-    width: 400px;  
+    width: 400px;
     height: auto;
     padding-bottom: 20px;
   }
@@ -354,9 +300,9 @@ footer {
     top:20%;
   }
 
-  #main-logo { 
-    width: 200px; 
-  } 
+  #main-logo {
+    width: 200px;
+  }
 
   #about p {
    font-size: 1.2em;
@@ -366,6 +312,10 @@ footer {
     margin-bottom: 30px;
   }
 
+  .medialogo{
+    font-size: 7em;
+    padding: 10% 20px;
+  }
 }
 
 @media screen and (max-width : 768px) {
@@ -387,9 +337,9 @@ footer {
     right: 0;
   }
 
-  #main-logo { 
-    width: 100px; 
-  } 
+  #main-logo {
+    width: 100px;
+  }
 
   #main-name {
     font-weight: 600;
@@ -420,16 +370,10 @@ footer {
     margin-bottom: 30px;
   }
 
-  #contact-form {
-    margin: 0px;
-    width: 100%;
+  .medialogo{
+    font-size: 5em;
+    padding: 10% 20px;
   }
-
-  input,
-  textarea {
-    margin-top: 5px;
-  }
-
 }
 
 @media screen and (max-width: 575px) {
@@ -437,7 +381,7 @@ footer {
   nav a {
     display: none;
   }
-    
+
   nav a:first-child {
     display: block;
   }
@@ -478,15 +422,6 @@ footer {
     font-size: 15px;
   }
 
-  form#contact-form {
-    margin: 0;
-    width: 50%;
-  }
-
-  #contact-image {
-    width: 70%;
-  }
-
 }
 
 @media screen and (max-width: 575px) {
@@ -496,7 +431,7 @@ footer {
     right: 0;
     top: 0;
   }
-    
+
   nav.responsive a {
     display: block;
     background-color: #000;
@@ -512,9 +447,9 @@ footer {
     -webkit-margin-after: 0em;
   }
 
-  #main-logo { 
-    width: 50%; 
-  } 
+  #main-logo {
+    width: 50%;
+  }
 
   #main-name {
     font-size: 1.5em;
@@ -531,6 +466,13 @@ footer {
 
   .work-info h2 {
     font-size: 20px;
+  }
+
+  .medialogo{
+    font-size: 5em;
+    width: 80%;
+    padding: 10 10 0 10;
+    margin: 0px;
   }
 
 }
