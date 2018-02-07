@@ -1,8 +1,8 @@
 
 var projects = [
   //{title: "Neighborhood Map", href_path:"" , img: "img/neighborhoodmap.png", type:"Coming Soon!", description: "Google Map API, Knockout.js"},
-  {title: "ISSA", href_path:"http://issa.infosci.cornell.edu/" , img: "img/issa.png", type:"Student Association", description: "Web/Graphics Chair"},
-  {title: "Logs Analysis", href_path:"" , img: "img/logsanalysis.png", type:"Learning Project", description: "SQL"},
+  {title: "ISSA", href_path:"https://summerohoh.github.io/ISSA_website/leadership.html" , img: "img/issa.png", type:"Student Association", description: "Web/Graphics Chair"},
+  {title: "Logs Analysis", href_path:"https://github.com/summerohoh/logs_analysis" , img: "img/logsanalysis.png", type:"Learning Project", description: "SQL"},
   {title: "TIPTOE&", href_path:"http://www.tiptoeand.com" , img: "img/tiptoe.png", type:"Social Business Start-Up", description: "Web Design/Contents"},
   {title: "Aizen Co.", href_path:"http://www.aizen.co", img: "img/aizen.png", type:"Internship", description: "Product Mangement / Research & Analysis"},
   {title: "Pony Up", href_path:"" , img: "img/ponyup.png", type:"Game Design Class Project", description: "UI/UX, Level Design"},
