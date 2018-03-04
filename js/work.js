@@ -1,6 +1,6 @@
 
 var projects = [
-  {title: "Item Catalog", href_path:"https://github.com/summerohoh/item-catalog" , img: "img/category_log.png", type:"Web Application", description: "Python Flask, Google & Facebook Sign in"},
+  {title: "Item Catalog", href_path:"https://github.com/summerohoh/item-catalog" , img: "img/item_catalog.png", type:"Web Application", description: "Python Flask, Google & Facebook Sign in"},
   {title: "ISSA", href_path:"http://issa.infosci.cornell.edu" , img: "img/issa.png", type:"Student Association", description: "Web/Graphics Chair"},
   {title: "Logs Analysis", href_path:"https://github.com/summerohoh/logs_analysis" , img: "img/logsanalysis.png", type:"Side Project", description: "SQL"},
   {title: "TIPTOE&", href_path:"http://www.tiptoeand.com" , img: "img/tiptoe.png", type:"Social Business Start-Up", description: "Web Design/Contents"},
