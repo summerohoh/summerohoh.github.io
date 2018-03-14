@@ -7,9 +7,9 @@ var projects = [
   {title: "TIPTOE&", href_path:"http://www.tiptoeand.com" , img: "img/tiptoe.png", type:"Social Business Start-Up", description: "Web Design/Contents"},
   {title: "Aizen Co.", href_path:"http://www.aizen.co", img: "img/aizen.png", type:"Internship", description: "Product Mangement / Research & Analysis"},
   {title: "Pony Up", href_path:"http://gdiac.cis.cornell.edu/courses/showcase.php" , img: "img/ponyup.png", type:"Game Design Class Project", description: "UI/UX, Level Design"},
-  {title: "Movie Catalogue", href_path:"https://github.com/summerohoh/Movie-Trailers" , img: "img/moviecatalogue.png", type:"Side Project", description: "Python / OOP"},
-  {title: "Bon VR", href_path:"https://vimeo.com/223665500" , img: "img/bonvr.png", type:"Hackathon", description: "UI/UX, Product Management, Unity"},
-  {title: "Taggle Inc.", href_path:"http://www.taggle.co", img: "img/taggle.png", type:"Internship", description: "Marketing / Wireframing / Data Analysis"},
+  {title: "Movie Catalogue", href_path:"https://github.com/summerohoh/Movie-Trailers" , img: "img/moviecatalogue.png", type:"Web Application", description: "Python / OOP"},
+  //{title: "Bon VR", href_path:"https://vimeo.com/223665500" , img: "img/bonvr.png", type:"Hackathon", description: "UI/UX, Product Management, Unity"},
+  //{title: "Taggle Inc.", href_path:"https://www.taggle.co", img: "img/taggle.png", type:"Internship", description: "Marketing / Wireframing / Data Analysis"},
   {title: "Pro Bonobos", href_path:"http://probonobos.github.io/rhok/", img: "img/probonobos.png", type:"Hackathon", description: "Web Development / Infographics"}
   ];
 
